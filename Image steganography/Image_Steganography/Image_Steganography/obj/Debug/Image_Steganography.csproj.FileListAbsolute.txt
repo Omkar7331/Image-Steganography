@@ -1,0 +1,27 @@
+c:\users\triloki\documents\visual studio 2015\Projects\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.exe.config
+c:\users\triloki\documents\visual studio 2015\Projects\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.exe
+c:\users\triloki\documents\visual studio 2015\Projects\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.pdb
+c:\users\triloki\documents\visual studio 2015\Projects\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.csprojResolveAssemblyReference.cache
+c:\users\triloki\documents\visual studio 2015\Projects\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.Form1.resources
+c:\users\triloki\documents\visual studio 2015\Projects\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.Properties.Resources.resources
+c:\users\triloki\documents\visual studio 2015\Projects\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.csproj.GenerateResource.Cache
+c:\users\triloki\documents\visual studio 2015\Projects\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.exe
+c:\users\triloki\documents\visual studio 2015\Projects\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.pdb
+C:\Users\Triloki\Documents\Project 5_6th Sem\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.exe.config
+C:\Users\Triloki\Documents\Project 5_6th Sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.exe
+C:\Users\Triloki\Documents\Project 5_6th Sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.pdb
+C:\Users\Triloki\Documents\Project 5_6th Sem\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.exe
+C:\Users\Triloki\Documents\Project 5_6th Sem\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.pdb
+C:\Users\Triloki\Documents\Project 5_6th Sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.csprojResolveAssemblyReference.cache
+C:\Users\Triloki\Documents\Project 5_6th Sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.Form1.resources
+C:\Users\Triloki\Documents\Project 5_6th Sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.Properties.Resources.resources
+C:\Users\Triloki\Documents\Project 5_6th Sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.csproj.GenerateResource.Cache
+C:\Users\Triloki\Documents\Project 5_6th Sem\project 6th sem\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.exe.config
+C:\Users\Triloki\Documents\Project 5_6th Sem\project 6th sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.exe
+C:\Users\Triloki\Documents\Project 5_6th Sem\project 6th sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.pdb
+C:\Users\Triloki\Documents\Project 5_6th Sem\project 6th sem\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.exe
+C:\Users\Triloki\Documents\Project 5_6th Sem\project 6th sem\Image_Steganography\Image_Steganography\bin\Debug\Image_Steganography.pdb
+C:\Users\Triloki\Documents\Project 5_6th Sem\project 6th sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.csprojResolveAssemblyReference.cache
+C:\Users\Triloki\Documents\Project 5_6th Sem\project 6th sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.Form1.resources
+C:\Users\Triloki\Documents\Project 5_6th Sem\project 6th sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.Properties.Resources.resources
+C:\Users\Triloki\Documents\Project 5_6th Sem\project 6th sem\Image_Steganography\Image_Steganography\obj\Debug\Image_Steganography.csproj.GenerateResource.Cache
